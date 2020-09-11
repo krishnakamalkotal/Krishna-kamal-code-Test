@@ -1,0 +1,16 @@
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\PromotionUnitTest.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\PromotionUnitTest.pdb
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\PromotionEngine_Krishnakamal.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\bin\Debug\PromotionEngine_Krishnakamal.pdb
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\obj\Debug\PromotionUnitTest.csprojAssemblyReference.cache
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\obj\Debug\PromotionUnitTest.csproj.CoreCompileInputs.cache
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\obj\Debug\PromotionUnitTest.csproj.CopyComplete
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\obj\Debug\PromotionUnitTest.dll
+C:\FSS\Krishnakamal_Sol\PromotionEngine_Krishnakamal\PromotionUnitTest\obj\Debug\PromotionUnitTest.pdb
